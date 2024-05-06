@@ -1,2 +1,3 @@
 
-![DataScienceCert](https://github.com/SukanyaRScholar/Data_Science_Projects/assets/54338670/acb18ce5-2e04-461f-92f5-f91e04aa3ebf)
+
+![DataScienceCert](https://github.com/SukanyaRScholar/Data-Science-Projects/assets/54338670/53bf0a1c-c1d0-44f8-b1be-336f4e7ba60c)
